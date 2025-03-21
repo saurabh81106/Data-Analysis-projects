@@ -1,1 +1,4 @@
-This project analyzes sales data using Excel formulas, pivot tables, and visualization techniques.
+Excel & Power BI Data Analysis  
+
+This project includes **sales data analysis** using **Excel** and **Power BI**.  
+It covers data cleaning, pivot tables, formulas, and interactive dashboards.  
